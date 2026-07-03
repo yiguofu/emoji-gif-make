@@ -1,0 +1,4 @@
+interface:
+  display_name: "emoji gif make"
+  short_description: "Make transparent sticker-style emoji GIFs"
+  default_prompt: "Use $emoji-gif-make to turn this sticker video into a 3-second transparent sticker GIF under 500 KB."
